@@ -6,4 +6,4 @@ D.B.O.H is a java application that converts numbers from a numerical base to oth
 
 This template is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-&copy; 2020 , for other repositories [click here](https://github.com/joaquimInteresting) 
+&copy; 2020 - [Joaquim Interesting](https://github.com/joaquimInteresting) 
